@@ -18,7 +18,7 @@ I like learning new technologies by building small projects and working with rea
 ## 🛠️ Skills
 
 **Languages:**  
-Python • C • JavaScript
+Python • C 
 
 **Data & Analytics:**  
 Power BI • Excel • Power Query • DAX • Pandas • NumPy
